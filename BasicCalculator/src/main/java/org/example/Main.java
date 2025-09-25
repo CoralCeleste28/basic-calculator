@@ -18,7 +18,6 @@ public class Main {
                     (D)ivide
                 Please select an option:  """ + " ");
         char possibleCalc = scanner.nextLine().charAt(0);
-
         System.out.println(numOne + " * " + numTwo + " = " + numOne * numTwo);
 
     }
